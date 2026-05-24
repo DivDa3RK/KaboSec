@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=300&section=header&text=MaSTeR%20DaRK&fontSize=70&fontColor=ff00ff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=320&section=header&text=MaSTeR%20DaRK&fontSize=75&fontColor=ff00ff&animation=twinkling&stroke=00ffe1&strokeWidth=2" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=600&color=00FFE1&center=true&vCenter=true&width=900&lines=Cyber+DevOps+Engineer;AI+Security+Mastermind;Kali+Linux+Automation;Stealth+Attack+Architect;Dark+Digital+Designer;Neon+Cyber+Interface" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=500&color=00FFE1&center=true&vCenter=true&width=950&lines=Cyber+DevOps+Engineer;AI+Security+Engineer;Linux+Automation+Architect;Dark+Digital+Designer;Neon+Cyber+Interface" />
+</p>
+
+<!-- New Pinterest GIF Added -->
+<p align="center">
+  <img src="https://pin.it/1hOytUknk" width="100%" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 255, 225, 0.4);" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-4e3a8e32-438c-4c66-9f2c-6b28c5f3d7b3.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-4e3a8e32-438c-4c66-9f2c-6b28c5f3d7b3.gif" width="100%" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -15,114 +20,67 @@
 ## 🖤 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,go,bash,ai,githubactions,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,python,go,bash,githubactions,docker,tensorflow,pytorch,ansible,kubernetes&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Cyber+DevOps+%26+AI+Security+Engineer;Specialized+in+Offensive+Tooling+and+Automation;Designing+Stealth+Intelligent+Cyber+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=700&color=FF00FF&center=true&vCenter=true&width=920&lines=Cyber+DevOps+%26+AI+Security+Engineer;Specialized+in+Automation+and+Defensive+Security;Designing+Smart+and+Scalable+Systems" />
 </p>
 
-- 🌌 **Passion:** Offensive Security • AI Automation • Dark Digital Design  
-- ⚡ **Specialization:** DevOps • AI Security • Kali Linux • Stealth Tooling  
-- 🎯 **Mission:** Engineering autonomous, intelligent and ultra‑stealth cyber frameworks  
+- 🌌 **Passion:** AI Automation • Cyber Defense • Dark Digital Design • Neon Aesthetics
+- ⚡ **Core Expertise:** DevOps • Linux Engineering • Red/Blue Team Tooling
+- 🎯 **Mission:** Building next-generation autonomous cyber systems
 
 ---
 
+## 🛠 Advanced Skills & Arsenal
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284091-6f4bff0c-6db2-4d13-8c3f-7c4a5a0c7ef5.gif" width="100%">
+  <img src="https://skillicons.dev/icons?i=python,go,bash,linux,docker,kubernetes,git,githubactions,ansible,terraform,tensorflow,pytorch,opencv,javascript,typescript,figma&theme=dark&perline=12" />
 </p>
+
+### Technical Domains
+
+| Category                  | Technologies |
+|--------------------------|--------------|
+| **DevOps & Automation**  | CI/CD • Docker • Kubernetes • Ansible • Terraform |
+| **AI & ML**              | TensorFlow • PyTorch • LLM Orchestration |
+| **Cybersecurity**        | Defensive Security • Threat Hunting • Custom Tooling |
+| **Linux Engineering**    | Shell Mastery • Hardening • Automation |
+| **Design**               | Neon UI • Motion Design • Dark Themes |
 
 ---
 
-## 🛠 Skills & Expertise
+## 🌐 Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=700&color=00FFE1&center=true&vCenter=true&width=900&lines=Offensive+DevOps;AI+Security+Automation;Linux+Exploitation;Cyber+Tool+Engineering;Dark+UI+Design" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,linux,docker,git,githubactions,tensorflow,pytorch&theme=dark" />
-</p>
-
-| Category | Tech |
-|----------|------|
-| 🛡 Offensive DevOps | Custom attack automation • Stealth pipelines • CI/CD cyber frameworks |
-| 🤖 AI Tooling | LLMs • GANs • Transformers • Autonomous logic engines |
-| 🐉 Linux & Security | Kali automation • Exploitation • Red teaming |
-| ⚙ Programming | Python • Bash • Go • JavaScript • PowerShell |
-| 🎨 Visual Design | Animated markdown • Neon UI • Cyber glitch |
+| Repository              | Description                                      | Status     |
+|-------------------------|--------------------------------------------------|------------|
+| **[KaboSec](https://github.com/KaboSec)** | Main Cyber DevOps & Automation Framework        | Active     |
+| **AI-Productivity-Tools** | Advanced AI agents and workflow automation     | Active     |
+| **Kali-Automation**      | Full automated offensive/defensive lab          | Active     |
+| **Security-Dashboard**   | Real-time neon cyber monitoring dashboard       | In Progress|
+| **Dark-Web-Analytics**   | Threat intelligence & OSINT platform            | Active     |
+| **Neon-UI-Kit**          | Advanced animated markdown + cyber components   | New        |
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284083-b84cbfd2-22be-4d43-9b6a-1574c9dfb67b.gif" width="100%">
-</p>
+## 🏆 Professional Experience & Achievements
+
+- Designed and implemented autonomous DevOps pipelines
+- Built advanced Linux automation and hardening frameworks
+- Developed AI-powered security and monitoring solutions
+- Created visually stunning technical dashboards and interfaces
+- Reduced operational overhead through intelligent automation
 
 ---
 
-## 🌐 GitHub Repositories
+## 🔗 Connect in the Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaboSec/assets/main/repo-carousel.gif" width="650"/>
-</p>
-
-| Repo | Description |
-|-------|-------------|
-| **KaboSec** | AI Offensive Toolkit • Kali Automation • Cyber DevOps |
-| **AI-Powered-Attack-Tools** | AI exploitation frameworks |
-| **Kali-Automation** | Fully automated penetration pipelines |
-| **Stealth-Malware** | AI-based adaptive cyber frameworks |
-| **Dark-Web-Scraper** | Deep dark web intelligence gathering |
-| **C2-Framework** | Advanced stealth command & control |
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284075-7d73c4b6-8f93-4dbb-a9c0-76b9fbe7fa64.gif" width="100%">
-</p>
-
----
-
-## 🏆 Professional Experience
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=600&color=FF00FF&center=true&vCenter=true&width=900&lines=Cyber+DevOps+%26+AI+Offensive+Engineer;Stealth+Attack+Architect;Autonomous+Security+Systems+Builder" />
-</p>
-
-- Designed **autonomous AI cyber frameworks**
-- Built **stealth-grade Kali Linux automation systems**
-- Developed **intelligent exploitation pipelines**
-- Engineered **adaptive AI decision engines**
-- Optimized **evasion & stealth execution layers**
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KaboSec/assets/main/glitch-effect.gif" width="250"/>
+  <a href="https://github.com/KaboSec"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFE1&color=020024" /></a>
+  <a href="https://t.me/Dev_D3rk"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF00FF&color=020024" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=500&color=00FFE1&center=true&vCenter=true&width=900&lines=Dark+Digital+|+AI+Powered+|+Cyber+Warfare+Engineering" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/KaboSec">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFE1"/>
-  </a>
-  <a href="mailto:https://t.me/Dev_D3rk">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/KaboSec?style=for-the-badge&color=ff00ff"/>
-  <img src="https://img.shields.io/github/stars/KaboSec?style=for-the-badge&color=00ffe1"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=220&section=footer&text=Stay%20in%20the%20Shadows%20%7C%20Keep%20Building%20the%20Future&fontSize=22&fontColor=ffffff" />
 </p>
